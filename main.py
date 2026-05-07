@@ -114,7 +114,7 @@ def main():
         # Dual Blades (Category 2)
         "Lunging Strike": "Lunging Strike",
         "Demon Mode": "Demon Mode",
-        "鬼人化(武器出し)": "Demonize Draw Weapon",
+        "鬼人化(武器出し)": "Demonize (Draw Weapon)",
         "Clash Sharpen": "Clash Sharpen",
         
         # Gesture (Category 3)
@@ -212,15 +212,16 @@ def main():
         "近接攻撃(武器出し)2": "Melee (Draw) 2",
         
         # Switch Axe (Category 12)
+        "Rising Slash" : "Morph Weapon",
         "Overhead Slash": "Overhead Slash",
         "Side Slash": "Side Slash",
         "Morph": "Charge",
-        "抜刀変形斬り": "Draw Morph Slash",
-        "Element Discharge": "Element Discharge/Morph",
+        "抜刀変形斬り": "Does Nothing???",
+        "Element Discharge": "Element Discharge/Rising Slash",
         "抜刀特殊アクション2": "Draw Sword Slash",
         "特殊ガード": "Parry",
         "抜刀ガード2": "Draw Parry",
-        "抜刀溜め": "Draw Charge",
+        "抜刀溜め": "Does Nothing???",
         
         # Magnet Spike (Category 13 & 14)
         "攻撃R↑|△": "Attack R Up",
