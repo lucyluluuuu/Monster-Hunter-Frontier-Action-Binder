@@ -117,6 +117,17 @@ def main():
         "鬼人化(武器出し)": "Demonize (Draw Weapon)",
         "Clash Sharpen": "Clash Sharpen",
         
+        # Gesture (Category 3)
+        "アナログアクション↑": "Analog Action Up",
+        "アナログアクション↓": "Analog Action Down",
+        "攻撃01": "Attack 01",
+        "攻撃02": "Attack 02",
+        "パイル": "Pile",
+        "武器出し(短)": "Draw Weapon (Short)",
+        "ガード(武器出し)": "Guard (Draw Weapon)",
+        "Guard": "Guard",
+        "EX Evade": "EX Evade",
+        
         # Great Sword (Category 4)
         "ため斬り(ポータブル)": "Charge Slash",
         "ため斬り(武器出し,ポータブル)": "Charge Slash (Draw)",
