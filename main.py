@@ -114,7 +114,7 @@ def main():
         # Dual Blades (Category 2)
         "Lunging Strike": "Lunging Strike",
         "Demon Mode": "Demon Mode",
-        "鬼人化(武器出し)": "Demonize (Draw Weapon)",
+        "鬼人化(武器出し)": "Demonize Draw Weapon",
         "Clash Sharpen": "Clash Sharpen",
         
         # Gesture (Category 3)
