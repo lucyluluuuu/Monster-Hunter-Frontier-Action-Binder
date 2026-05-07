@@ -17,7 +17,7 @@ A GUI tool for remapping controller buttons in Monster Hunter Frontier's `keycon
 - Python 3.6 or higher
 - Tkinter (comes with Python)
 
-##How It Works
+## How It Works
 
 - The tool parses the <controller> tag attributes (line ~8) to understand which hex values correspond to each physical button.
 - Then it updates the keydata key= and subkey= values for each action in the selected category.
