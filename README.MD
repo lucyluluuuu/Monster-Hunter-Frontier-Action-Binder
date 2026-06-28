@@ -38,3 +38,7 @@ A GUI tool for remapping controller buttons in Monster Hunter Frontier's `keycon
 - Simply take the release, unarchive it and place the MHFActionBinder into your MH Frontier folder.  
 
 - It is recommended to copy and paste your keycfg into the MHFActionBinder folder and then copy and paste it back after your binds are set but the program does do it's own backups if you're feeling brave.
+
+## Questions/Concerns/Bug Reports
+
+- Contact me on Discord if you have issues: colalala6402
