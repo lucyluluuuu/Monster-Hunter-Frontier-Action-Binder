@@ -1,4 +1,4 @@
-# MHF Controller Remapper
+# MHFActionBinder
 
 A GUI tool for remapping controller buttons in Monster Hunter Frontier's `keyconfig.cfg` file.
 
