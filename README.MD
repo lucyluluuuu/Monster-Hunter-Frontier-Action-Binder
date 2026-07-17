@@ -41,4 +41,4 @@ A GUI tool for remapping controller buttons in Monster Hunter Frontier's `keycon
 
 ## Questions/Concerns/Bug Reports
 
-- Contact me on Discord if you have issues: colalala6402
+- Contact me on Discord if you have issues: .LuluKitty
