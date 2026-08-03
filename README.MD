@@ -37,7 +37,7 @@ A GUI tool for remapping controller buttons in Monster Hunter Frontier's `keycon
 
 ## Installation
 
-- Simply take the release, unarchive it and place the MHFActionBinder into your MH Frontier folder.  
+- Simply take the release, and place the main.py into your MH Frontier folder in it's own folder i.e. C:\Games\Frontier\MHFActionBinder\main.py  
 
 - It is recommended to copy and paste your keycfg into the MHFActionBinder folder and then copy and paste it back after your binds are set but the program does do it's own backups if you're feeling brave.
 
